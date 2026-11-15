@@ -1,6 +1,6 @@
 from django.test import TestCase
 
-from .models import BookingModel, MenuModel
+from restaurant.models import BookingModel, MenuModel
 
 from datetime import datetime
 
